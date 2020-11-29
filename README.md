@@ -8,4 +8,4 @@ Use for MCBBS Wiki only.
 
 This project applies to CC BY NC-SA 4.0.
 
-Private now, but will be public in 2020, after further development.
+In development, be careful to use.
